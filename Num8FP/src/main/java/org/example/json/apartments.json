@@ -1,0 +1,392 @@
+[
+  {
+    "area": 50.0,
+    "rooms": 2,
+    "address": {
+      "district": "Центральный",
+      "street": "Ленина",
+      "building_number": 1
+    },
+    "floor": 3,
+    "building_type": "Кирпичный",
+    "floors": 9,
+    "price": 50000.0
+  },
+  {
+    "area": 70.0,
+    "rooms": 3,
+    "address": {
+      "district": "Пушкинский",
+      "street": "Мира",
+      "building_number": 5
+    },
+    "floor": 5,
+    "building_type": "Панельный",
+    "floors": 12,
+    "price": 70000.0
+  },
+  {
+    "area": 90.0,
+    "rooms": 4,
+    "address": {
+      "district": "Советский",
+      "street": "Гагарина",
+      "building_number": 10
+    },
+    "floor": 2,
+    "building_type": "Кирпичный",
+    "floors": 5,
+    "price": 80000.0
+  },
+  {
+    "area": 45.0,
+    "rooms": 1,
+    "address": {
+      "district": "Ленинский",
+      "street": "Победы",
+      "building_number": 7
+    },
+    "floor": 6,
+    "building_type": "Панельный",
+    "floors": 10,
+    "price": 40000.0
+  },
+  {
+    "area": 60.0,
+    "rooms": 2,
+    "address": {
+      "district": "Первомайский",
+      "street": "Садовая",
+      "building_number": 3
+    },
+    "floor": 1,
+    "building_type": "Кирпичный",
+    "floors": 5,
+    "price": 55000.0
+  },
+  {
+    "area": 80.0,
+    "rooms": 3,
+    "address": {
+      "district": "Кировский",
+      "street": "Парковая",
+      "building_number": 2
+    },
+    "floor": 4,
+    "building_type": "Кирпичный",
+    "floors": 7,
+    "price": 65000.0
+  },
+  {
+    "area": 55.0,
+    "rooms": 2,
+    "address": {
+      "district": "Фрунзенский",
+      "street": "Волгоградская",
+      "building_number": 12
+    },
+    "floor": 8,
+    "building_type": "Панельный",
+    "floors": 14,
+    "price": 48000.0
+  },
+  {
+    "area": 75.0,
+    "rooms": 3,
+    "address": {
+      "district": "Центральный",
+      "street": "Советская",
+      "building_number": 15
+    },
+    "floor": 2,
+    "building_type": "Панельный",
+    "floors": 9,
+    "price": 70000.0
+  },
+  {
+    "area": 95.0,
+    "rooms": 4,
+    "address": {
+      "district": "Ленинский",
+      "street": "Партизанская",
+      "building_number": 6
+    },
+    "floor": 5,
+    "building_type": "Кирпичный",
+    "floors": 10,
+    "price": 85000.0
+  },
+  {
+    "area": 40.0,
+    "rooms": 1,
+    "address": {
+      "district": "Пролетарский",
+      "street": "Лесная",
+      "building_number": 8
+    },
+    "floor": 7,
+    "building_type": "Панельный",
+    "floors": 12,
+    "price": 37000.0
+  },
+  {
+    "area": 55.0,
+    "rooms": 2,
+    "address": {
+      "district": "Центральный",
+      "street": "Садовый",
+      "building_number": 13
+    },
+    "floor": 3,
+    "building_type": "Кирпичный",
+    "floors": 9,
+    "price": 52000.0
+  },
+  {
+    "area": 85.0,
+    "rooms": 3,
+    "address": {
+      "district": "Победный",
+      "street": "Первомайская",
+      "building_number": 4
+    },
+    "floor": 6,
+    "building_type": "Панельный",
+    "floors": 11,
+    "price": 65000.0
+  },
+  {
+    "area": 90.0,
+    "rooms": 4,
+    "address": {
+      "district": "Кировский",
+      "street": "Красноармейская",
+      "building_number": 1
+    },
+    "floor": 2,
+    "building_type": "Кирпичный",
+    "floors": 6,
+    "price": 80000.0
+  },
+  {
+    "area": 50.0,
+    "rooms": 2,
+    "address": {
+      "district": "Фрунзенский",
+      "street": "Володарского",
+      "building_number": 6
+    },
+    "floor": 4,
+    "building_type": "Панельный",
+    "floors": 7,
+    "price": 48000.0
+  },
+  {
+    "area": 65.0,
+    "rooms": 2,
+    "address": {
+      "district": "Ленинский",
+      "street": "Парковая",
+      "building_number": 9
+    },
+    "floor": 1,
+    "building_type": "Кирпичный",
+    "floors": 5,
+    "price": 57000.0
+  },
+  {
+    "area": 75.0,
+    "rooms": 3,
+    "address": {
+      "district": "Центральный",
+      "street": "Лермонтова",
+      "building_number": 3
+    },
+    "floor": 5,
+    "building_type": "Панельный",
+    "floors": 9,
+    "price": 69000.0
+  },
+  {
+    "area": 40.0,
+    "rooms": 1,
+    "address": {
+      "district": "Пушкинский",
+      "street": "Комсомольская",
+      "building_number": 7
+    },
+    "floor": 8,
+    "building_type": "Кирпичный",
+    "floors": 14,
+    "price": 40000.0
+  },
+  {
+    "area": 55.0,
+    "rooms": 2,
+    "address": {
+      "district": "Советский",
+      "street": "Советская",
+      "building_number": 11
+    },
+    "floor": 2,
+    "building_type": "Кирпичный",
+    "floors": 6,
+    "price": 50000.0
+  },
+  {
+    "area": 80.0,
+    "rooms": 3,
+    "address": {
+      "district": "Первомайский",
+      "street": "Маяковского",
+      "building_number": 2
+    },
+    "floor": 6,
+    "building_type": "Панельный",
+    "floors": 11,
+    "price": 65000.0
+  },
+  {
+    "area": 95.0,
+    "rooms": 4,
+    "address": {
+      "district": "Кировский",
+      "street": "Свердлова",
+      "building_number": 3
+    },
+    "floor": 5,
+    "building_type": "Кирпичный",
+    "floors": 10,
+    "price": 80000.0
+  },
+  {
+    "area": 45.0,
+    "rooms": 1,
+    "address": {
+      "district": "Фрунзенский",
+      "street": "Чайковского",
+      "building_number": 7
+    },
+    "floor": 1,
+    "building_type": "Панельный",
+    "floors": 5,
+    "price": 42000.0
+  },
+  {
+    "area": 60.0,
+    "rooms": 2,
+    "address": {
+      "district": "Центральный",
+      "street": "Пушкина",
+      "building_number": 4
+    },
+    "floor": 4,
+    "building_type": "Кирпичный",
+    "floors": 7,
+    "price": 55000.0
+  },
+  {
+    "area": 75.0,
+    "rooms": 3,
+    "address": {
+      "district": "Ленинский",
+      "street": "Лесной",
+      "building_number": 6
+    },
+    "floor": 8,
+    "building_type": "Панельный",
+    "floors": 14,
+    "price": 67000.0
+  },
+  {
+    "area": 40.0,
+    "rooms": 1,
+    "address": {
+      "district": "Пушкинский",
+      "street": "Гагарина",
+      "building_number": 5
+    },
+    "floor": 2,
+    "building_type": "Кирпичный",
+    "floors": 6,
+    "price": 40000.0
+  },
+  {
+    "area": 55.0,
+    "rooms": 2,
+    "address": {
+      "district": "Советский",
+      "street": "Мира",
+      "building_number": 9
+    },
+    "floor": 5,
+    "building_type": "Панельный",
+    "floors": 9,
+    "price": 50000.0
+  },
+  {
+    "area": 80.0,
+    "rooms": 3,
+    "address": {
+      "district": "Первомайский",
+      "street": "Победы",
+      "building_number": 10
+    },
+    "floor": 3,
+    "building_type": "Кирпичный",
+    "floors": 8,
+    "price": 68000.0
+  },
+  {
+    "area": 90.0,
+    "rooms": 4,
+    "address": {
+      "district": "Кировский",
+      "street": "Садовая",
+      "building_number": 8
+    },
+    "floor": 2,
+    "building_type": "Панельный",
+    "floors": 6,
+    "price": 78000.0
+  },
+  {
+    "area": 45.0,
+    "rooms": 1,
+    "address": {
+      "district": "Фрунзенский",
+      "street": "Парковая",
+      "building_number": 11
+    },
+    "floor": 7,
+    "building_type": "Кирпичный",
+    "floors": 12,
+    "price": 43000.0
+  },
+  {
+    "area": 60.0,
+    "rooms": 2,
+    "address": {
+      "district": "Центральный",
+      "street": "Пролетарская",
+      "building_number": 5
+    },
+    "floor": 1,
+    "building_type": "Панельный",
+    "floors": 5,
+    "price": 52000.0
+  },
+  {
+    "area": 75.0,
+    "rooms": 3,
+    "address": {
+      "district": "Ленинский",
+      "street": "Пушкинская",
+      "building_number": 3
+    },
+    "floor": 4,
+    "building_type": "Кирпичный",
+    "floors": 8,
+    "price": 64000.0
+  }
+]

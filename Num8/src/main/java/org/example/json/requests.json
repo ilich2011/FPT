@@ -1,0 +1,152 @@
+[
+  {
+    "rooms": 2,
+    "district": "Центральный",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 3,
+    "district": "Пушкинский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 4,
+    "district": "Советский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 1,
+    "district": "Ленинский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 2,
+    "district": "Первомайский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 3,
+    "district": "Кировский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 2,
+    "district": "Фрунзенский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 3,
+    "district": "Центральный",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 4,
+    "district": "Ленинский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 1,
+    "district": "Пролетарский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 2,
+    "district": "Центральный",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 3,
+    "district": "Победный",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 4,
+    "district": "Кировский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 2,
+    "district": "Фрунзенский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 2,
+    "district": "Ленинский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 3,
+    "district": "Центральный",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 1,
+    "district": "Пушкинский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 2,
+    "district": "Советский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 3,
+    "district": "Первомайский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 4,
+    "district": "Кировский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 1,
+    "district": "Фрунзенский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 2,
+    "district": "Центральный",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 3,
+    "district": "Ленинский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 1,
+    "district": "Пушкинский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 2,
+    "district": "Советский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 3,
+    "district": "Первомайский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 4,
+    "district": "Кировский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 2,
+    "district": "Фрунзенский",
+    "building_type": "Панельный"
+  },
+  {
+    "rooms": 2,
+    "district": "Ленинский",
+    "building_type": "Кирпичный"
+  },
+  {
+    "rooms": 3,
+    "district": "Центральный",
+    "building_type": "Панельный"
+  }
+]
